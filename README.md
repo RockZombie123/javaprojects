@@ -6,6 +6,8 @@ but IF you are going to copy this code, then please copy + paste this to give me
 Original Code by: Saish Shankar.
 __________________________________
 
-edited code by: <editor of the code>
+edited code by: editor of the code
+
+ copy + paste the thing above: ^^^
  
 ok, so I'm gonna go build something now if you don't mind...
