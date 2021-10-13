@@ -8,6 +8,6 @@ If you are going to make any changes to my code and post it, please write this i
 Original code by Saish Shankar
 _______________________________
 
-By the way, please ignore the fact that the name is javprojects, I changed my mind and now this readme.md file is for telling you about my awesome python codes.
+By the way, please ignore the fact that the directory name is javaprojects, I changed my mind and now this readme.md file is for telling you about my awesome python codes.
 
 Thank you for your patience.
