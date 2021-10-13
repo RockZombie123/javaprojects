@@ -1,13 +1,11 @@
-# javaprojects
-This is just a test for my java projects...
+# App store & Web browser
 
-but IF you are going to copy this code, then please copy + paste this to give me credits for the original code:
 
-Original Code by: Saish Shankar.
-__________________________________
+So I'm going to post the .py files for my web browser and my app store right here.
 
-edited code by: editor of the code
+If you are going to make any changes to my code and post it, please write this in your description:
 
- copy + paste the thing above: ^^^
- 
-ok, so I'm gonna go build something now if you don't mind...
+Original code by Saish Shankar
+_______________________________
+
+Thank you for your patience.
