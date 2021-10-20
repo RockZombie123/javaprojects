@@ -1,0 +1,41 @@
+Welcome to the terminal search browser!
+
+This browser was coded entirely with python by Saish Shankar.
+
+I am always looking for people to optimize and add new features to my browser!
+
+FEATURES:
+
+Simple! Just type in a search keyword(s) to see the result!
+
+This browser doesn't get out multiple results to confuse you, and instead gets out the most helpful one!
+
+YOU can join a community and become a moderator!
+
+Moderators can: optimize the code and add new search results to the browser.
+
+Or, if you just want to become a member, you can:
+
+Request for new features in updates
+Request for upgrade (mod)
+
+Regular users can:
+
+Request for new features in updates
+Request for new results in updates
+
+
+Since this browser currently is NOT flexible,
+here are all he keyword(s) you can use for searching.
+
+help - Gives out the brwser help (as shown above).
+
+Python - Gives out some useful info about python. (programming language)
+
+Joe Biden - Gives out useful info about Joe Biden the president.
+
+Konami Code - Gives useful info about the Konami Code.
+-----------------
+
+VER: 1.0.0
+MODS MAY ALSO EDIT THIS TEXT FILE.
